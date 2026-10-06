@@ -14,7 +14,7 @@
 ### Tools and Technologies
 
 FRONTEND <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,reac,nodejst)](https://skillicons.dev)
 
 DESIGNER <br>
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,figma)](https://skillicons.dev)
